@@ -14,6 +14,7 @@ Usage
 
 You can also launch it without SSH, but you have to specifying the TAG you want in the available the list:
 
+* 18.09-alpine
 * 18.06-alpine
 * 17.10-alpine
 * 17.05-alpine
