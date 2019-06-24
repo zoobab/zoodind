@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e
+#set -e
 
 for i in *-*/; do
     echo -ne "Launching $i ..."
